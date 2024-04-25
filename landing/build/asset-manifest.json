@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b96e7e03.css",
+    "main.js": "/static/js/main.9bc8f797.js",
+    "static/js/453.815728ae.chunk.js": "/static/js/453.815728ae.chunk.js",
+    "static/media/dogparty.jpg": "/static/media/dogparty.ebdb72253875d7bd6fa6.jpg",
+    "index.html": "/index.html",
+    "main.b96e7e03.css.map": "/static/css/main.b96e7e03.css.map",
+    "main.9bc8f797.js.map": "/static/js/main.9bc8f797.js.map",
+    "453.815728ae.chunk.js.map": "/static/js/453.815728ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96e7e03.css",
+    "static/js/main.9bc8f797.js"
+  ]
+}

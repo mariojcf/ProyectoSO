@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  padding-top: 20px;
+  justify-content: center;
+}
+
+.App>div{
+  display: flex;
+  border-width:1px 1px;
+  box-shadow: 0 3px 7px 0 rgba(0,0,0,0.2);
+}
+
+.App>div:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.banner-logo {
+  height: calc(100vh - 40px);
+}
+
+.App .wrapper {
+  width: 400px;
+  transition: 0.3s;
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  padding-left: 100px;
+}
+
+.wrapper h1 {
+  font-size: 25px;
+  font-family: sans-serif;
+  color:#fa9a1d;
+}
